@@ -1,0 +1,8 @@
+** If none of the method works, try the following:
+sudo apt install docker.io
+sudo snap install docker
+
+Then check if its installed by entering the following command: 
+docker --version
+sudo docker run hello-world
+**
