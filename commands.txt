@@ -39,7 +39,7 @@ Verify that the Docker Engine installation is successful by running the hello-wo
  sudo docker run hello-world
 
 
- 
+Enter the following commands in the directory containing the docker file (i.e. Open the Docker Folder):
 -> To check the contents of node file
 node main.js
 
